@@ -1,0 +1,32 @@
+body {
+  background-color: #ececec;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 2px 2px #8bbfe5;
+  margin-top: 1em;
+}
+
+h1:hover {
+  color: #8bbfe5;
+  text-shadow: 2px 2px black;
+}
+
+.col img {
+  margin-top: 6em !important;
+}
+
+.col img:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+  border: 2px solid black;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: .6em;
+}
+/*# sourceMappingURL=clothing.css.map */
